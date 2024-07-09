@@ -15,6 +15,7 @@ class _SplashScreenState extends State<SplashScreen> {
     Future.delayed(const Duration(milliseconds: 6200), () {
       context.push('auth');
     });
+    print("jkjk");
   }
 
   @override
