@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541429182971",
+    "project_id": "locatrack-b8409",
+    "storage_bucket": "locatrack-b8409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541429182971:android:018df55612a9a6552fdb5e",
+        "android_client_info": {
+          "package_name": "com.abhijith.locatrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf5qtvGnZlpAVjprUgqg-sP4fv1u_YR4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
